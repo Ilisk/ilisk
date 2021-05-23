@@ -78,6 +78,7 @@ p {
   padding-top: 100px;
   height: 750px;
   background: #31344e url("intro.jpg") no-repeat center;
+  background: #31344e url("assets/intro.jpg") no-repeat center;
   background-size: cover;
 }
 .intro__inner{
